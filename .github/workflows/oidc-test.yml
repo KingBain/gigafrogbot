@@ -77,7 +77,7 @@ jobs:
         uses: ./
         env:
           ACTIONS_STEP_DEBUG: true
-          JF_URL: ${{ secrets.PLATFORM_URL }}
+          JF_URL: https://artifacts-artefacts.devops.cloud-nuage.canada.ca
           JF_GIT_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           JF_GIT_BASE_BRANCH: ${{ matrix.branch }}
           JF_WORKING_DIR: ./testdata/projects/noIssuesProject
