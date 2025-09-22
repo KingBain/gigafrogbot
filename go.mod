@@ -12,7 +12,7 @@ require (
 	github.com/jfrog/gofrog v1.7.6
 	github.com/jfrog/jfrog-cli-artifactory v0.7.1
 	github.com/jfrog/jfrog-cli-core/v2 v2.59.7
-	github.com/jfrog/jfrog-cli-security v1.21.6
+	github.com/jfrog/jfrog-cli-security v1.21.7
 	github.com/jfrog/jfrog-client-go v1.54.7
 	github.com/jordan-wright/email v4.0.1-0.20210109023952-943e75fe5223+incompatible
 	github.com/stretchr/testify v1.11.0
